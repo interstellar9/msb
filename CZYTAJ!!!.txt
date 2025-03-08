@@ -1,0 +1,2 @@
+vite 6.x.x i integracja z API (so sprawdzenia)
+http://localhost:5173/
